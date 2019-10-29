@@ -47,3 +47,5 @@ let houses = [
     }
   }
 ];
+
+export default houses;
